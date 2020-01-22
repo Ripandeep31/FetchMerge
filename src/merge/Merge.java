@@ -17,6 +17,7 @@ public class Merge {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Fetch and Merge");
+        System.out.println("Changed remote file");
     }
     
 }
